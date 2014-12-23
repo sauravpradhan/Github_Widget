@@ -29,6 +29,7 @@
         android:textColor="#000000"
         android:textSize="15sp" />
 
+
     <TextView
         android:id="@+id/content"
         android:layout_width="fill_parent"
@@ -42,6 +43,14 @@
         android:text="Content"
         android:textColor="#000000"
         android:textSize="12sp" />
+
+    <LinearLayout 
+        android:id="@+id/border"
+        android:orientation="horizontal"
+        android:layout_below="@+id/content"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#000000"></LinearLayout>
 
 </RelativeLayout>
 
@@ -83,6 +92,13 @@
         android:text="Content"
         android:textColor="#000000"
         android:textSize="12sp" />
+       <LinearLayout 
+        android:id="@+id/border1"
+        android:orientation="horizontal"
+        android:layout_below="@+id/content1"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#000000"></LinearLayout>
 
 </RelativeLayout>
 
@@ -124,6 +140,13 @@
         android:text="Content"
         android:textColor="#000000"
         android:textSize="12sp" />
+       <LinearLayout 
+        android:id="@+id/border2"
+        android:orientation="horizontal"
+        android:layout_below="@+id/content2"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#000000"></LinearLayout>
 
 </RelativeLayout>
 <RelativeLayout
@@ -164,6 +187,13 @@
         android:text="Content"
         android:textColor="#000000"
         android:textSize="12sp" />
+       <LinearLayout 
+        android:id="@+id/border3"
+        android:orientation="horizontal"
+        android:layout_below="@+id/content3"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#000000"></LinearLayout>
 
 </RelativeLayout>
 <RelativeLayout
@@ -204,6 +234,13 @@
         android:text="Content"
         android:textColor="#000000"
         android:textSize="12sp" />
+       <LinearLayout 
+        android:id="@+id/border4"
+        android:orientation="horizontal"
+        android:layout_below="@+id/content4"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#000000"></LinearLayout>
 
 </RelativeLayout>
 
