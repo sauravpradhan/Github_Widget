@@ -37,4 +37,4 @@ Will work later on:
 
 Directly test the APK with my starred repo link:
 =============
-https://drive.google.com/file/d/0Byaspar4S5SETVdIWHh1LVNfYlk/view?usp=sharing
+https://drive.google.com/file/d/0Byaspar4S5SEd3phRnRuM1Rlc2M/view?usp=sharing
