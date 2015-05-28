@@ -33,7 +33,7 @@ public class myWidget extends AppWidgetProvider  {
 		// TODO Auto-generated method stub
 		myContext = context;
 		Log.d("Saurav", "Starting AsyncTask!");
-		new FetchGithubData().execute("https://api.github.com/users/kodered/starred");
+		new FetchGithubData().execute("https://api.github.com/users/sauravpradhan/starred");
 	}
 
 
