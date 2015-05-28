@@ -37,4 +37,4 @@ Will work later on:
 
 Directly test the APK with my starred repo link:
 =============
-https://drive.google.com/file/d/0Byaspar4S5SEd3phRnRuM1Rlc2M/view?usp=sharing
+https://www.dropbox.com/s/a21ebw7f603seus/Github_Widget.apk?dl=0
