@@ -5,7 +5,7 @@ A widget to show your recently starred repo in Github.
 How it works?
 =============
 Currently I'm just fetching the starred repo using Github's REST for starred repo.
-Anybody can modify the code to work with any REST API with JSON response.
+Anybody can modify the code to work with any REST API with JSON response(of same JSON structure).
 
 How to setup the widget to show your stars:
 =============
