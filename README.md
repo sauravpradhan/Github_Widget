@@ -11,7 +11,7 @@ How to setup the widget to show your stars:
 =============
 1)Go to -> Github_Widget/src/com/saurav/githubwidget/myWidget.java line no 38.
 
-2)Replace "kodered" with your username without quotes.
+2)Replace "sauravpradhan" with your username without quotes.
 
 3)Recompile the app and apply the widget and you are done.
 
