@@ -25,15 +25,15 @@ What doesn't work:
 
 Will work later on:
 =============
-1)Making the widget github events based.
+1)Making the widget github events based.(Someday)
 
-2)Authetication Oauth(Someday).
+2)Authetication Oauth(Doesnt look feasible).
 
-3)Starting a configuration activity for widget to take username in the beginning.
+3)Starting a configuration activity for widget to take username in the beginning.(Done)
 
 4)Updating the widget every half an hour while invoking the API again.(There are some dependencies)
 
-5)Updating the github logo with some dynamic github events.
+5)Updating the github logo with some dynamic github events.(To Do)
 
 Directly test the APK with my starred repo link:
 =============
